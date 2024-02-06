@@ -12,7 +12,7 @@ collective dehashed passwords
 
 https://hashmob.net/
 
-applipedia: Palo Alto's 
+applipedia: Palo Alto's application information repository
 
 https://applipedia.paloaltonetworks.com/
 
