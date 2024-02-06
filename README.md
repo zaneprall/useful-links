@@ -118,6 +118,11 @@ hijack traffic going to a bluetooth dongle
 
 https://www.mousejack.com/
 
+good free encryption
+
+https://www.veracrypt.fr/code/VeraCrypt/
+
+(pair with https://github.com/zaneprall/ExfilQR and upload to google for free file storage!)
 
 #shopping
 
