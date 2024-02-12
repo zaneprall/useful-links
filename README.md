@@ -74,6 +74,10 @@ tl;draw - output html5/css from a sketch. Powerful for drafting and website crea
 
 https://makereal.tldraw.com
 
+ssl server test
+
+https://www.ssllabs.com/ssltest/
+
 sccmhunter - CCMHunter is a post-ex tool built to streamline identifying, profiling, and attacking SCCM related assets in an Active Directory domain.
 
 https://github.com/garrettfoster13/sccmhunter
