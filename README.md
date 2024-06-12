@@ -106,9 +106,7 @@ kbd-audio: eavesdrop on keystrokes
 
 https://github.com/ggerganov/kbd-audio
 
-lmao
 
-https://github.com/Drewsif/wipedicks
 
 extract data from images, and blank space files
 
